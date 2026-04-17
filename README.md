@@ -7,9 +7,9 @@ Directions:
 <div align="center">
 <h1 align="center">Hi there, I'm Ibrahim Musa Haruna 👋</h1>
 
-<h3 style="text-align:center; font-weight:bold;">
+<h2 style="text-align:center; font-weight:bold;">
     BIM Software Developer & Structural Engineer
-</h3>
+</h2>
 <h4 style="text-align:center; font-style:italic;">
     Bridging the gap between Civil Engineering and Computer Science.
 </h4>
