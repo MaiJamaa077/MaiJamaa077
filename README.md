@@ -7,7 +7,12 @@ Directions:
 
 <h1 align="center">Hi there, I'm Ibrahim Musa Haruna 👋</h1>
 
-<h3 align="center">BIM Software Developer & Structural Engineer bridging the gap between Civil Engineering and Computer Science.</h3>
+<h3 style="text-align:center; font-weight:bold;">
+    BIM Software Developer & Structural Engineer
+</h3>
+<h4 style="text-align:center; font-style:italic;">
+    Bridging the gap between Civil Engineering and Computer Science.
+</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/ibrahim-h-m-44422467" target="_blank">
