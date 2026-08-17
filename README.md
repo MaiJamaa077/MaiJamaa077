@@ -1,52 +1,48 @@
-<!-- 
-Directions: 
-1. Go to your repository: https://github.com/MaiJamaa077/MaiJamaa077
-2. Edit the README.md file.
-3. Paste all the code below into it and click "Commit changes".
--->
 <div align="center">
-<h1 align="center">Hi there, I'm Ibrahim Musa Haruna</h1>
-
-<h3 style="text-align:center; font-weight:bold;">
-    BIM Software Developer & Structural Engineer
-</h3>
-<h4 style="text-align:center; font-style:italic;">
-    Bridging the gap between Civil Engineering and Computer Science.
-</h4>
-</div>
-
-<p align="center">
+  <h1>Ibrahim Musa Haruna</h1>
+  <h3>BIM Software Developer & Digital Engineer</h3>
+  <p>Bridging Civil Engineering, OpenBIM, and Computational Automation</p>
+  
   <a href="https://linkedin.com/in/ibrahim-h-m-44422467" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏢 Currently pursuing a **Master of Science in Digital Engineering** at *Bauhaus-Universität Weimar* (Focus: Machine Learning, Computer Vision, GIS).
-- ⚙️ Working as a **BIM Software Developer**, building sophisticated C# & Python tools using the Revit API.
-- 🏗️ Strong background in Civil/Structural Engineering (ETABS, SAP2000, Navisworks).
-- 🌱 Always exploring new ways to automate BIM workflows and integrate data pipelines (IFC, REST APIs) into structural analysis.
+I am a structural engineer turned software developer, specializing in digital engineering, OpenBIM (IFC), and structural automation. My focus is on eliminating repetitive engineering tasks and building robust data pipelines between structural analysis software and BIM environments.
 
-### 🛠️ Tech Stack & Tools
+- 🎓 **MSc. Digital Engineering**, Bauhaus-Universität Weimar (Focus: Computer Vision, Machine Learning, GIS)
+- 🏢 **Current Role**: BIM Software Developer (C#, Python, Revit API)
+- ⚙️ **Domain Expertise**: Structural Engineering, OpenBIM (IFC 4.3), Parametric Design
+- 🛠️ **Tech Stack**: Python, C#, .NET, IfcOpenShell, Revit API, ETABS/SAP2000
 
-**Languages:**<br>
-![C](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+### 🚀 Featured Engineering Projects
 
-**APIs & Frameworks:** <br>
-`Revit API` | `AutoCAD API` | `ASP.NET Core` | `REST APIs` | `Dynamo`
+#### [Parametric-RC-Bridges](https://github.com/MaiJamaa077/Parametric-RC-Bridges)
+**Parameter-Driven IFC 4.3 Generation for Standardized RC Frame Bridges**
+A Python-based OpenBIM engine designed to automate the generation of IFC 4.3 models for reinforced concrete frame bridges. Translates 2D engineering standards into parametric 3D logic using `IfcOpenShell`.
 
-**BIM & Structural Modeling:**<br>
-`Autodesk Revit` | `Navisworks` | `Civil 3D` | `ETABS` | `SAP2000` | `SOFiSTiK`
+#### [Numerical-Methods-Engine](https://github.com/MaiJamaa077/Numerical-Integration) *(Formerly Numerical-Integration)*
+**Computational Solver for Structural Energy Simulation**
+A Python-based computational tool for numerical integration and error analysis, applied to energy simulation. Demonstrates core competencies in algorithmic problem solving and mathematical modeling in engineering.
+
+#### [Cellular-Automata-Simulation](https://github.com/MaiJamaa077/Population-Simulation) *(Formerly Population-Simulation)*
+**Spatial Evolution and Grid Simulation Model**
+An object-oriented Python application simulating grid-based population evolution. Features a Model-View-Controller (MVC) architecture to cleanly separate the computational engine from the visualization layer.
 
 ---
 
-### 📊 GitHub Stats
+### 🔧 Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiJamaa077&show_icons=true&theme=radical&hide_border=true" alt="Ibrahim's GitHub stats" />
-</p>
+* **Languages**: Python, C#, SQL
+* **BIM / AEC**: Revit API, Dynamo, IfcOpenShell, OpenBIM (IFC), Navisworks
+* **Structural**: SAP2000, ETABS
+* **Data & Analytics**: Pandas, NumPy, Data Visualization
+
+<br/>
+<div align="center">
+  <i>"Automating the built environment, one script at a time."</i>
+</div>
