@@ -19,17 +19,17 @@ I am a structural engineer turned software developer, specializing in digital en
 - ⚙️ **Domain Expertise**: Structural Engineering, OpenBIM (IFC 4.3), Parametric Design
 - 🛠️ **Tech Stack**: Python, C#, .NET, IfcOpenShell, Revit API, ETABS/SAP2000
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 #### [Parametric-RC-Bridges](https://github.com/MaiJamaa077/Parametric-RC-Bridges)
 **Parameter-Driven IFC 4.3 Generation for Standardized RC Frame Bridges**
 A Python-based OpenBIM engine designed to automate the generation of IFC 4.3 models for reinforced concrete frame bridges. Translates 2D engineering standards into parametric 3D logic using `IfcOpenShell`.
 
-#### [Numerical-Methods-Engine](https://github.com/MaiJamaa077/Numerical-Integration) *(Formerly Numerical-Integration)*
+#### [Numerical-Methods-Engine](https://github.com/MaiJamaa077/Numerical-Integration)
 **Computational Solver for Structural Energy Simulation**
 A Python-based computational tool for numerical integration and error analysis, applied to energy simulation. Demonstrates core competencies in algorithmic problem solving and mathematical modeling in engineering.
 
-#### [Cellular-Automata-Simulation](https://github.com/MaiJamaa077/Population-Simulation) *(Formerly Population-Simulation)*
+#### [Cellular-Automata-Simulation](https://github.com/MaiJamaa077/Population-Simulation)
 **Spatial Evolution and Grid Simulation Model**
 An object-oriented Python application simulating grid-based population evolution. Features a Model-View-Controller (MVC) architecture to cleanly separate the computational engine from the visualization layer.
 
